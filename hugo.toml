@@ -4,6 +4,7 @@ theme = 'smol'
 
 [params]
     subtitle = "Programming & Procrastination"
+    customCSS = ["css/darkmode.css"]
 
 [menu]
     [[menu.main]]
