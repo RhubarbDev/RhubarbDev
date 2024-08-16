@@ -30,7 +30,7 @@ public class PrimeNumber {
 }
 ```
 
-This object can then be used to determine numbers upto a value **n**
+This object can then be used to determine prime numbers upto a value **n**
 
 ```java
 public static void sieveOfEratosthenes(int n) {
